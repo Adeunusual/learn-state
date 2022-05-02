@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/learn-state/static/css/main.abfc6d9b.css",
+    "main.js": "/learn-state/static/js/main.6aab268e.js",
+    "static/media/filledstar.png": "/learn-state/static/media/filledstar.9cb64f8e94c7f3d8832f.png",
+    "static/media/user.png": "/learn-state/static/media/user.9d6546cdff347abed1a2.png",
+    "static/media/emptystar.png": "/learn-state/static/media/emptystar.f31c06b9370bf5854555.png",
+    "index.html": "/learn-state/index.html",
+    "main.abfc6d9b.css.map": "/learn-state/static/css/main.abfc6d9b.css.map",
+    "main.6aab268e.js.map": "/learn-state/static/js/main.6aab268e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abfc6d9b.css",
+    "static/js/main.6aab268e.js"
+  ]
+}
